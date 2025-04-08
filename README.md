@@ -12,10 +12,10 @@ Leia o enunciado completo no Canvas.
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Matheus Henrique Borges Ferreira
+- Matricula: 881020
+- Proposta de projeto escolhida: Catálogo de Filmes
+- Breve descrição sobre seu projeto: 
 
 ## Print da versão responsiva com CSS puro
 
