@@ -62,4 +62,16 @@ const filmes = [
       "link": "https://www.disneyplus.com/pt-br/browse/entity-9c1b0ec2-2e4e-4717-89fb-bdf3a45523df?distributionPartner=google",
       "nome_filme": 'VEJA AQUI'
     }
-  ] 
+  ]
+  
+  document.addEventListener("DOMContentLoaded", function () {
+    console.log("DOM totalmente carregado");
+  
+    document.querySelectorAll(".d-block.mx-auto").forEach(img => {
+      img.addEventListener('click', () => {
+        const id = img.getAttribute('data-id');
+        console.log("Clicou no ID:", id);
+        window.location.href = `detalhes.html?id=${id}`;
+      });
+    });
+  });  
