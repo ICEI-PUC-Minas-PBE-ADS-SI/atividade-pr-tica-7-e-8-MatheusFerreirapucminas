@@ -15,12 +15,10 @@ Leia o enunciado completo no Canvas.
 - Nome: Matheus Henrique Borges Ferreira
 - Matricula: 881020
 - Proposta de projeto escolhida: Catálogo de Filmes
-- Breve descrição sobre seu projeto: 
+- Breve descrição sobre seu projeto: Projeto criado com o auxílio do JavaScript, passando por um parâmetro na query string.
 
-## Print da versão responsiva com CSS puro
+Print da página no "detalhes.html":
+![alt text](Página_detalhes.png)
 
-<<  COLOQUE A IMAGEM AQUI >>
-
-## Print da versão responsiva com Bootstrap
-
-<<  COLOQUE A IMAGEM AQUI >>
+Print da página responsiva - iPad:
+![alt text](Página_responsiva.png)
