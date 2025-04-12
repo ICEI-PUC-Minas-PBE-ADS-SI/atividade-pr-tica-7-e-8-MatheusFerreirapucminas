@@ -22,3 +22,6 @@ Print da página no "detalhes.html":
 
 Print da página responsiva - iPad:
 ![alt text](Página_responsiva.png)
+
+Print da home page ("index.html"):
+![alt text](Página_homepage.png)
